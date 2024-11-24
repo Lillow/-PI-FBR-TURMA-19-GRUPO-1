@@ -1,0 +1,26 @@
+PI-FBR-TURMA-19-GRUPO-1/
+│
+├── .gitignore
+├── README.md
+├── estrutura.txt
+├── fbr_api/
+│   ├── db.sqlite3
+│   ├── manage.py
+│   ├── api/
+│   │   ├── migrations/
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   └── fbr_api/
+│        ├── __init__.py
+│        ├── asgi.py
+│        ├── permissions.py
+│        ├── settings.py
+│        ├── test_requests.py
+│        ├── urls.py
+│        └── wsgi.py
+└── testes/
+    └──test_empresa.py
