@@ -147,7 +147,7 @@ pyrightconfig.json
 
 
 # Virtual environment manager
-venv_manager.exe
+# venv_manager.exe
 
 # Diretório com alumas informações pertinentes
 .informacoes/
